@@ -14,7 +14,8 @@ Follow the steps as mentioned by clicking the link to install ROS2-Foxy on your 
 
 **Steps for Installation of Gazebo** 
 
-Step1 : `curl -sSL http://get.gazebosim.org | sh`    
+Step1 :   
+`curl -sSL http://get.gazebosim.org | sh`    
 Step2 : `echo “source /usr/share/gazebo-11/setup.bash ” >> ~/.bashrc`    
 Setp3 : `gazebo`     
 
